@@ -1,7 +1,7 @@
 'use strict';
 
 //variables
-const inputArea = document.querySelector('.field-area');
+const inputArea = document.querySelector('.field-area'); 
 const fullName = document.querySelector('.full-name');
 const dateOfBirth = document.querySelector('.d-o-b');
 const calcBtn = document.querySelector('.calc-btn');
